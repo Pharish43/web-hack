@@ -22,6 +22,16 @@ h2{
     color:blue;
 }
 
+h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+}
+.btn{
+   width: auto;
+   padding-bottom: 8rem;
+}
 .download-btn{
     background-color: DodgerBlue;
     color: white;
