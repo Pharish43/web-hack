@@ -21,13 +21,16 @@ h1{
 h2{
     bottom: 2rem;
     color:blue;
+    padding: 10px;
 }
 
 h3{
     
-    align-items: center;
-    justify-content: center;
-    padding-top: 2rem;
+   
+   justify-content: center;
+   align-items: center;
+   padding-left: 6rem;
+   margin-top: 2rem;
 }
 .btn{
    width: auto;
